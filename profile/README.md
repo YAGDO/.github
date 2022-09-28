@@ -7,3 +7,5 @@
 #### Sub-Projects
 
 - Open Additional Syntax => [view](https://github.com/My-Pokemon/OpenAS)
+- (Using: OpenAS) Open Pokemon Mechanics => [view]()
+- (Using: OpenAS) Open Pokemon Storage => [view]()
