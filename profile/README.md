@@ -18,9 +18,9 @@ Language | Usage
 
 ## Current Projects
 
-Project | Markdown Page
---|--
-My Pokemon | [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/YAGDO/.github/blob/70e048bd669be25adb4ce342e35f383016e8150c/profile/pages/my_pokemon.md)
+Project | Markdown Page | Description
+--|--|--
+My Pokémon | [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/YAGDO/.github/blob/70e048bd669be25adb4ce342e35f383016e8150c/profile/pages/my_pokemon.md) | `An open-world Pokémon game, inspired by Pokémon emerald`
 
 ## Social Media
 
