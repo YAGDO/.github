@@ -8,8 +8,7 @@
 <a href="404_Page_Not_Found" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://instagram.com/yagdo_official" traget="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="404_Page_Not_Found" target="_blank">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
-<a href="404_Page_Not_Found" traget="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><br/>
-<br/>
+<a href="404_Page_Not_Found" traget="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <h1>About us</h1>
 <p>
 	We are an international game development company that is oriented to community and players. <br/>
