@@ -3,6 +3,4 @@
 	<meta name="version" content="1.0"/>
 </head>
 
-<a href="URL" target="_blank">
-	<div id="btn-switch-language" style="border-radius: 20; background-color: #24313E; width: 150px; height:50px;">LANGUAGE</div>
-</a>
+<a href="" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
